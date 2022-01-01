@@ -1,0 +1,13 @@
+{
+  "name": "zafarjonovich/yii-safe-exception",
+  "description": "Yii safe exception",
+  "type": "package",
+  "autoload": {
+    "psr-4": {
+      "zafarjonovich\\YiiSafeException\\": "src"
+    }
+  },
+  "require": {
+    "zafarjonovich/php-safe-exception": "*"
+  }
+}
