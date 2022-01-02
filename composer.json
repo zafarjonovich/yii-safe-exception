@@ -8,6 +8,6 @@
     }
   },
   "require": {
-    "zafarjonovich/php-safe-exception": "*"
+    "zafarjonovich/php-safe-exception": ">=0.0.0.2"
   }
 }
