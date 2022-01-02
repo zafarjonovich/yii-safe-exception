@@ -70,8 +70,8 @@ $config = [
                 ],
                 [
                     'class' => \zafarjonovich\YiiSafeException\saver\TelegramBotSaver::class,
-                    'token' => '1788624443:AAE0jBIM4OnnrhOZDpXg7Wyxvx4UJdpOU_A',
-                    'chat_ids' => [666989730]
+                    'token' => 'TELEGRAM_BOT_TOKEN',
+                    'chat_ids' => ['telegram_chat_id']
                 ]
             ],
             'stringGeneratorClass' => \zafarjonovich\PHPSafeException\converter\TextConverter::class,
